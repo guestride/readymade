@@ -1,0 +1,31 @@
+HTTrack3.48-22+htsswf+htsjava launched on Sun, 18 Dec 2016 18:10:52 at https://www.templatemonster.com/demo/53967.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.templatemonster.com/demo/53967.html -O1 "D:\temp" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:11:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://s.tmimgcdn.com/img/logo-touch/apple-touch-icon-152.png?d=5000764 (from https://www.templatemonster.com/demo/53967.html)
+18:11:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://s.tmimgcdn.com/img/logo-touch/apple-touch-icon-120.png?d=5000764 (from https://www.templatemonster.com/demo/53967.html)
+18:11:41	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://www.templatemonster.com/demo/53967.html)
+18:11:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://s.tmimgcdn.com/js/varnish.compiled.application.en.js?d=fa73d8d (from https://www.templatemonster.com/demo/53967.html)
+18:12:05	Warning: 	Unable to test https://www.templatemonster.com/demo/Popover%20requires%20tooltip.js (loop to same filename)
+18:12:05	Warning: 	link is probably looping, type unknown, aborting: https://www.templatemonster.com/demo/Popover%20requires%20tooltip.js
+18:12:30	Warning: 	link is probably looping, type unknown, aborting: https://www.templatemonster.com/demo/this.isAbsolute%28
+18:12:32	Error: 	"Not Found" (404) at link widgets.digg.com/buttons.js (from https://s.tmimgcdn.com/js/varnish.compiled.application.en.js?d=fa73d8d)
+18:12:32	Warning: 	Moved Permanently for https://www.templatemonster.com/demo/
+18:12:32	Warning: 	File has moved from https://www.templatemonster.com/demo/ to https://www.templatemonster.com/last-added/
+18:12:32	Warning: 	Moved Permanently for https://www.templatemonster.com/demo/arguments.caller not defined.  goog.base() cannot be used with strict mode code. See http://www.ecma-international.org/ecma-262/5.1/
+18:12:32	Warning: 	File has moved from https://www.templatemonster.com/demo/arguments.caller not defined.  goog.base() cannot be used with strict mode code. See http://www.ecma-international.org/ecma-262/5.1/ to https://www.templatemonster.com/demo/arguments.caller%20not%20defined.%20%20goog.base()%20cannot%20be%20used%20with%20strict%20mode%20code.%20See%20http:/www.ecma-international.org/ecma-262/5.1/
+18:12:32	Warning: 	Moved Permanently for https://www.templatemonster.com/demo/firefox/
+18:12:32	Warning: 	File has moved from https://www.templatemonster.com/demo/firefox/ to https://www.templatemonster.com/last-added/
+18:12:33	Warning: 	Moved Permanently for https://www.templatemonster.com/demo/gecko/
+18:12:33	Warning: 	File has moved from https://www.templatemonster.com/demo/gecko/ to https://www.templatemonster.com/last-added/
+18:12:33	Warning: 	Moved Permanently for https://www.templatemonster.com/demo/safari/
+18:12:33	Warning: 	File has moved from https://www.templatemonster.com/demo/safari/ to https://www.templatemonster.com/last-added/
+18:12:33	Warning: 	Moved Permanently for https://www.templatemonster.com/demo/mozilla/
+18:12:33	Warning: 	File has moved from https://www.templatemonster.com/demo/mozilla/ to https://www.templatemonster.com/last-added/
+
+HTTrack Website Copier/3.48-22 mirror complete in 1 minutes 41 seconds : 51 links scanned, 39 files written (3568548 bytes overall) [1418034 bytes received at 14039 bytes/sec], 3318343 bytes transferred using HTTP compression in 17 files, ratio 34%, 3.0 requests per connection
+(2 errors, 18 warnings, 0 messages)

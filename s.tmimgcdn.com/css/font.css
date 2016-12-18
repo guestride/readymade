@@ -1,0 +1,19 @@
+/* font-family: "PTSansRegular"; */
+@font-face {
+    font-family: "PT Sans";
+    src: url("https://s.tmimgcdn.com/fonts/PTSansRegular/PTSansRegular-ext.woff") format("woff");
+}
+/* font-family: "PTSansItalic"; */
+@font-face {
+    font-family: "PT Sans";
+    src: url("https://s.tmimgcdn.com/fonts/PTSansItalic/PTSansItalic.woff") format("woff");
+    font-style: italic;
+}
+/* font-family: "PTSansBold"; */
+@font-face {
+    font-family: "PT Sans";
+    src: url("https://s.tmimgcdn.com/fonts/PTSansBold/PTSansBold-ext.woff") format("woff");
+    font-weight: bold;
+}
+
+/* В -ext версии шрифтов отрисовал и добавил значок турецкой лиры */
